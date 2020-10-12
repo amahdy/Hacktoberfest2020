@@ -1,5 +1,7 @@
 ---
 name: A.Mahdy AbdelAziz
 institution: ExtraVerd
-github:amahdy
+image: amahdy.jpeg
+quote: Code Artist
+github: amahdy
 ---
